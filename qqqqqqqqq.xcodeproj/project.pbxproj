@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04D1B3B91C3A570900A544B6 /* MMZCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1B3AB1C3A570900A544B6 /* MMZCViewController.m */; };
+		04D1B3BA1C3A570900A544B6 /* MMZCHMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1B3AD1C3A570900A544B6 /* MMZCHMViewController.m */; };
+		04D1B3BB1C3A570900A544B6 /* settingPassWardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1B3AF1C3A570900A544B6 /* settingPassWardViewController.m */; };
+		04D1B3BC1C3A570900A544B6 /* settinhHeaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1B3B11C3A570900A544B6 /* settinhHeaderViewController.m */; };
+		04D1B3BF1C3A570900A544B6 /* forgetPassWardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1B3B61C3A570900A544B6 /* forgetPassWardViewController.m */; };
+		04D1B3C01C3A570900A544B6 /* newPassWardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1B3B81C3A570900A544B6 /* newPassWardViewController.m */; };
 		12CF6EC21B5DF734007E2154 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 12CF6EC11B5DF734007E2154 /* main.m */; };
 		12CF6EC51B5DF734007E2154 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 12CF6EC41B5DF734007E2154 /* AppDelegate.m */; };
 		12CF6EC81B5DF734007E2154 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12CF6EC71B5DF734007E2154 /* ViewController.m */; };
@@ -27,6 +33,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04D1B3AA1C3A570900A544B6 /* MMZCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMZCViewController.h; sourceTree = "<group>"; };
+		04D1B3AB1C3A570900A544B6 /* MMZCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMZCViewController.m; sourceTree = "<group>"; };
+		04D1B3AC1C3A570900A544B6 /* MMZCHMViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMZCHMViewController.h; sourceTree = "<group>"; };
+		04D1B3AD1C3A570900A544B6 /* MMZCHMViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMZCHMViewController.m; sourceTree = "<group>"; };
+		04D1B3AE1C3A570900A544B6 /* settingPassWardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = settingPassWardViewController.h; sourceTree = "<group>"; };
+		04D1B3AF1C3A570900A544B6 /* settingPassWardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = settingPassWardViewController.m; sourceTree = "<group>"; };
+		04D1B3B01C3A570900A544B6 /* settinhHeaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = settinhHeaderViewController.h; sourceTree = "<group>"; };
+		04D1B3B11C3A570900A544B6 /* settinhHeaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = settinhHeaderViewController.m; sourceTree = "<group>"; };
+		04D1B3B51C3A570900A544B6 /* forgetPassWardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = forgetPassWardViewController.h; sourceTree = "<group>"; };
+		04D1B3B61C3A570900A544B6 /* forgetPassWardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = forgetPassWardViewController.m; sourceTree = "<group>"; };
+		04D1B3B71C3A570900A544B6 /* newPassWardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newPassWardViewController.h; sourceTree = "<group>"; };
+		04D1B3B81C3A570900A544B6 /* newPassWardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newPassWardViewController.m; sourceTree = "<group>"; };
 		12CF6EBC1B5DF734007E2154 /* qqqqqqqqq.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = qqqqqqqqq.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		12CF6EC01B5DF734007E2154 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		12CF6EC11B5DF734007E2154 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -85,6 +103,18 @@
 				12CF6EC41B5DF734007E2154 /* AppDelegate.m */,
 				12CF6EC61B5DF734007E2154 /* ViewController.h */,
 				12CF6EC71B5DF734007E2154 /* ViewController.m */,
+				04D1B3AA1C3A570900A544B6 /* MMZCViewController.h */,
+				04D1B3AB1C3A570900A544B6 /* MMZCViewController.m */,
+				04D1B3AC1C3A570900A544B6 /* MMZCHMViewController.h */,
+				04D1B3AD1C3A570900A544B6 /* MMZCHMViewController.m */,
+				04D1B3AE1C3A570900A544B6 /* settingPassWardViewController.h */,
+				04D1B3AF1C3A570900A544B6 /* settingPassWardViewController.m */,
+				04D1B3B01C3A570900A544B6 /* settinhHeaderViewController.h */,
+				04D1B3B11C3A570900A544B6 /* settinhHeaderViewController.m */,
+				04D1B3B51C3A570900A544B6 /* forgetPassWardViewController.h */,
+				04D1B3B61C3A570900A544B6 /* forgetPassWardViewController.m */,
+				04D1B3B71C3A570900A544B6 /* newPassWardViewController.h */,
+				04D1B3B81C3A570900A544B6 /* newPassWardViewController.m */,
 				12CF6EC91B5DF734007E2154 /* Main.storyboard */,
 				12CF6ECC1B5DF734007E2154 /* Images.xcassets */,
 				12CF6ECE1B5DF734007E2154 /* LaunchScreen.xib */,
@@ -219,9 +249,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D1B3C01C3A570900A544B6 /* newPassWardViewController.m in Sources */,
 				12CF6EC81B5DF734007E2154 /* ViewController.m in Sources */,
+				04D1B3BA1C3A570900A544B6 /* MMZCHMViewController.m in Sources */,
+				04D1B3BC1C3A570900A544B6 /* settinhHeaderViewController.m in Sources */,
 				12CF6EC51B5DF734007E2154 /* AppDelegate.m in Sources */,
+				04D1B3BB1C3A570900A544B6 /* settingPassWardViewController.m in Sources */,
+				04D1B3B91C3A570900A544B6 /* MMZCViewController.m in Sources */,
 				12CF6EC21B5DF734007E2154 /* main.m in Sources */,
+				04D1B3BF1C3A570900A544B6 /* forgetPassWardViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +454,7 @@
 				12CF6EE11B5DF734007E2154 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		12CF6EE21B5DF734007E2154 /* Build configuration list for PBXNativeTarget "qqqqqqqqqTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +463,7 @@
 				12CF6EE41B5DF734007E2154 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
