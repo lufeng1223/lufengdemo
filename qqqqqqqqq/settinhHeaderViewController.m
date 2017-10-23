@@ -59,6 +59,7 @@
 
 -(void)landClick
 {
+    NSLog(@"loginbtn---");
     [self.navigationController pushViewController:[[MMZCViewController alloc]init] animated:YES];
     
 }

@@ -304,6 +304,7 @@
 //登录
 -(void)landClick
 {
+    NSLog(@"登录---");
     if ([user.text isEqualToString:@""])
     {
         //[SVProgressHUD showInfoWithStatus:@"亲,请输入用户名"];
